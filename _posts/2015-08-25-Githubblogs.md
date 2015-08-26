@@ -1,5 +1,5 @@
 ---
-title: 如何利用Github搭建自己的博客
+title: 使用Github搭建自己的博客
 ---
 
 
@@ -43,8 +43,6 @@ Markdown可以直接打开“记事本”直接开写，当然也可以利用合
 ![注册](http://ww2.sinaimg.cn/large/623478fegw1evgexkdnfpj20dn0g6ju3.jpg)
 这一步非常简单，注册一个Github账号即可。Github会为用户保留一个username.github.io的二级域名，我们就是在这里存放博客文件的。接下来我们会使用**username**来替代你的用户名。
 
-
-
 ### 第二步：选择并Fork一个Jekyll模板
 
 Jekyll的模板很多，Google关键词"Jekyll Theme"即可得到一大堆结果。这里我们选择[http://jekyllthemes.org/](http://jekyllthemes.org/)来做示例。
@@ -53,17 +51,19 @@ Jekyll的模板很多，Google关键词"Jekyll Theme"即可得到一大堆结果
 请考虑一下博客使用的场景——如果您的博客大部分是文字，请选择文字间距大、以文字为主题的博客；如果您的博客主要用来展示您的摄影作品，请设想一下哪个模板对展示多图片有很好的效果。挑好模板就像定了家居的风格，请按照博客定位来选择合适的模板。	
 
 这里选择[**Tiffany**](http://jekyllthemes.org/themes/tiffany/)这个模板
-![选择Tiffany模板](http://ww4.sinaimg.cn/large/623478fegw1evgevoge07j20kh06st9r.jpg)
+
+![选择Tiffany模板](http://ww3.sinaimg.cn/large/623478fegw1evgfe9dor5j20kh06st9r.jpg)
+
 - 选择模板后，点击"Homepage"跳转到作者的Github主页中。
 
 - 点击“Fork”来复制一份项目文件到你自己的Github库中
 ![Fork](http://ww1.sinaimg.cn/large/623478fegw1evgewvbl95j20sb09jtaq.jpg)
 
-- **这一步非常重要：**请把这个项目的名称改为“**username**.github.io”。先找到Settings，
+- **这一步非常重要：**请把这个项目的名称改为“**username**.github.io”才能在页面上显示。先找到Settings，
 
 ![修改名称](http://ww1.sinaimg.cn/large/623478fegw1evgf0yynspj20s407xwge.jpg)
 
-下图操作后点击按钮“Rename”。
+然后将项目的名称改为“**username**.github.io”
 
 ![Rename](http://ww3.sinaimg.cn/large/623478fegw1evgf1xxzf1j20jx079t9h.jpg)
 
@@ -94,6 +94,6 @@ Jekyll的模板很多，Google关键词"Jekyll Theme"即可得到一大堆结果
 
 ##成果展示
 
-如果你成功按照本文方法在Github上搭建了自己的窝，欢迎回复地址，我会去串串门~
+如果你成功按照本文方法在Github上搭建了自己的窝，欢迎回复地址秀一下~
 >博客搭建感谢最帅气最可爱的@汤煲粥。
 本文博客地址：xxxxxxxxxxxx
