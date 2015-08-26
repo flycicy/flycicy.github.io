@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-##About
+##About Me
 - PM
 - wower and NPC
 - Dreamer
