@@ -96,4 +96,3 @@ Jekyll的模板很多，Google关键词"Jekyll Theme"即可得到一大堆结果
 
 如果你成功按照本文方法在Github上搭建了自己的窝，欢迎回复地址秀一下~
 >博客搭建感谢最帅气最可爱的@汤煲粥。
-本文博客地址：xxxxxxxxxxxx
