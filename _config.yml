@@ -16,6 +16,14 @@ permalink: /:title
 paginate: 8
 paginate_path: /page:num/
 allowedFields: ['name', 'email', 'comment']
+branch: 'gh-pages'
+format: 'json'
+moderation: true
+<input type="hidden" name="options[post-slug]" value="this-is-a-post">
+path: _data/posts/{options.post-slug}
+requiredFields: ['name', 'comment']
+transforms:
+  email: 'md5'
 
 # Default values
 defaults:
